@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "net.y9.chattogles.client.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"client": [],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}
