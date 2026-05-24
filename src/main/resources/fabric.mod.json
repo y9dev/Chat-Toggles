@@ -5,7 +5,7 @@
 	"name": "Chat Toggles",
 	"description": "This is an example description! Tell everyone what your mod is about!",
 	"authors": [
-		"Me!"
+		"y9ever"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
@@ -15,11 +15,8 @@
 	"icon": "assets/chattoggles/icon.png",
 	"environment": "*",
 	"entrypoints": {
-		"main": [
-			"net.y9.chattogles.ChatToggles"
-		],
 		"client": [
-			"net.y9.chattogles.client.ChatTogglesClient"
+			"net.y9.chattogles.client.ChatToggles"
 		]
 	},
 	"mixins": [
