@@ -1,5 +1,5 @@
 {
-  "chattoggles.keymap_category": "Chat Toggles",
+  "key.category.chattoggles.general": "Chat Toggles",
   "chattoggles.key.toggles_control": "Select Toggle",
 
   "chattoggles.toggle.selected": "Selected toggle: %s",

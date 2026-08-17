@@ -28,13 +28,13 @@ public class ChatTogglesClient implements ClientModInitializer {
     public static final String MOD_ID = "chattoggles";
     public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
 
-    KeyMapping.Category CATEGORY = KeyMapping.Category.register(Identifier.fromNamespaceAndPath(MOD_ID, "chattogles.keymap_category"));
+    KeyMapping.Category CATEGORY = KeyMapping.Category.register(Identifier.fromNamespaceAndPath(MOD_ID, "general"));
 
     private static final ConfigEntryBuilder ENTRY_BUILDER = ConfigEntryBuilder.create();
 
     private final KeyMapping controlKey = KeyBindingHelper.registerKeyBinding(
             new KeyMapping(
-                    "chattogles.key.toggles_control",
+                    "chattoggles.key.toggles_control",
                     InputConstants.Type.KEYSYM,
                     GLFW.GLFW_KEY_X,
                     CATEGORY
