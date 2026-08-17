@@ -15,7 +15,6 @@ import net.minecraft.network.chat.Component;
 import net.minecraft.resources.Identifier;
 import net.y9.chattogles.client.config.ToggleState;
 import net.y9.chattogles.client.config.TogglesConfig;
-import net.y9.chattogles.client.screen.TogglesScreen;
 import net.y9.chattogles.client.utils.Toggle;
 import org.lwjgl.glfw.GLFW;
 import org.slf4j.Logger;
