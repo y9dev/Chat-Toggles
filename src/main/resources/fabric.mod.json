@@ -16,8 +16,11 @@
 	"environment": "*",
 	"entrypoints": {
 		"client": [
-			"net.y9.chattogles.client.ChatToggles"
-		]
+          "net.y9.chattogles.client.ChatTogglesClient"
+		],
+        "modmenu": [
+          "net.y9.chattogles.client.integration.ModMenuIntegration"
+        ]
 	},
 	"mixins": [
 		"chattoggles.mixins.json",

@@ -1,0 +1,25 @@
+{
+  "chattoggles.keymap_category": "Chat Toggles",
+  "chattoggles.key.toggles_control": "Select Toggle",
+
+  "chattoggles.toggle.selected": "Selected toggle: %s",
+  "chattoggles.toggle.selected_default": "Selected default toggle",
+
+  "text.autoconfig.chattoggles.title": "Chat Toggles",
+
+  "text.autoconfig.chattoggles.option.isEnabled": "Enabled",
+
+  "text.autoconfig.chattoggles.option.isPreviewEnabled": "Enabled preview",
+  "text.autoconfig.chattoggles.option.isPreviewEnabled.@Tooltip": "Preview of the message being sent in chat",
+
+  "text.autoconfig.chattoggles.option.shouldChat": "Open chat",
+  "text.autoconfig.chattoggles.option.shouldChat.@Tooltip": "When you select Toggle, chat will open",
+
+  "text.autoconfig.chattoggles.option.toggles": "Toggles",
+
+  "text.autoconfig.chattoggles.option.Toggle": "Toggle",
+  "text.autoconfig.chattoggles.option.Toggle.enabled": "Enabled",
+  "text.autoconfig.chattoggles.option.Toggle.name": "Name",
+  "text.autoconfig.chattoggles.option.Toggle.chatPreset": "Prefix",
+  "text.autoconfig.chattoggles.option.Toggle.chatPreset.@Tooltip": "If it empty, chat will send message without changes"
+}
